@@ -2,7 +2,7 @@
 <style>
 .name{font:800 64px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;fill:#F4F6FA;letter-spacing:2px}
 .sub{font:500 22px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;fill:#AAB4C3}
-.role{font:600 21px Consolas, 'SF Mono', 'Courier New', monospace;fill:#E0313E;opacity:0}
+.role{font:600 21px Consolas, 'SF Mono', 'Courier New', monospace;fill:#C9D2E0;opacity:0}
 .meta{font:500 14px Consolas, 'SF Mono', 'Courier New', monospace;fill:#7C889A;letter-spacing:1.5px}
 @keyframes show{0%{opacity:0;transform:translateY(6px)}3%,17%{opacity:1;transform:translateY(0)}20%,100%{opacity:0}}
 .r0{animation:show 13.0s infinite;animation-delay:0.0s}.r1{animation:show 13.0s infinite;animation-delay:2.6s}.r2{animation:show 13.0s infinite;animation-delay:5.2s}.r3{animation:show 13.0s infinite;animation-delay:7.800000000000001s}.r4{animation:show 13.0s infinite;animation-delay:10.4s}

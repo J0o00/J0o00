@@ -15,21 +15,21 @@
 
 <br>
 
-## ⚡ About me
+## About me
 
 I'm an **EEE undergraduate at Christ College of Engineering, Irinjalakuda** (B.Tech, expected 2027) working where
 power hardware meets embedded control: **power electronics, renewable energy, electric vehicles, embedded systems
 and industrial automation**.
 
-- 🔋 Built **Battery Management System** work for an **eBAJA EV** prototype
-- ☀️ **IEEE Smart Village intern** with SunMoksha Power: solar PV microgrids and rural electrification in Jharkhand
-- 🧠 **Project intern at NITK Surathkal** on a funded project: EMG signal processing and FES control in MATLAB/Simulink
-- 📄 Co-author of an **Indian patent application** on context-aware monitoring of electrical motors
-- 🏆 **Winner & Best Pitch**, BeachHack H4C
+- Built **Battery Management System** work for an **eBAJA EV** prototype
+- **IEEE Smart Village intern** with SunMoksha Power: solar PV microgrids and rural electrification in Jharkhand
+- **Project intern at NITK Surathkal** on a funded project: EMG signal processing and FES control in MATLAB/Simulink
+- Co-author of an **Indian patent application** on context-aware monitoring of electrical motors
+- **Winner & Best Pitch**, BeachHack H4C
 
 <br>
 
-## 🚀 Featured work
+## Featured work
 
 <table>
   <tr>
@@ -47,9 +47,8 @@ and industrial automation**.
 </table>
 
 <details>
-<summary><b>📸 From the build bench</b></summary>
+<summary><b>From the build bench</b></summary>
 <br>
-
 <table>
   <tr>
     <td width="50%" align="center"><img src="assets/ebaja-bg.jpg" alt="eBAJA EV team and vehicle build" width="100%"><br><sub><b>eBAJA EV build</b></sub></td>
@@ -60,12 +59,11 @@ and industrial automation**.
     <td width="50%" align="center"><img src="assets/patent-diagram.jpg" alt="Digital triplet layers" width="100%"><br><sub><b>Digital triplet concept</b></sub></td>
   </tr>
 </table>
-
 </details>
 
 <br>
 
-## 💼 Experience
+## Experience
 
 | Role | Organisation | When |
 |---|---|---|
@@ -75,7 +73,7 @@ and industrial automation**.
 
 <br>
 
-## 🛠 Toolbox
+## Toolbox
 
 <p>
   <img src="https://img.shields.io/badge/Siemens%20TIA%20Portal-009999?style=flat-square&logo=siemens&logoColor=white" alt="Siemens TIA Portal">
@@ -101,34 +99,34 @@ and industrial automation**.
 
 <br>
 
-## 🏆 Recognition
+## Recognition
 
 <table>
   <tr>
     <td valign="top" width="33%">
       <b>Awards</b><br><br>
-      🥇 Winner &amp; Best Pitch, BeachHack H4C<br>
-      🥇 1st Place, Pitch Perfect Idea<br>
-      🎯 Finalist, BeachHack AI
+      Winner &amp; Best Pitch, BeachHack H4C<br>
+      1st Place, Pitch Perfect Idea<br>
+      Finalist, BeachHack AI
     </td>
     <td valign="top" width="33%">
       <b>Certifications</b><br><br>
-      📜 IIT Madras Pravartak: Intelligent Data Center O&amp;M<br>
-      📜 NPTEL: Introduction to Machine Learning<br>
-      🏭 Siemens CoE: PLC, SCADA, HMI &amp; Industrial Automation
+      IIT Madras Pravartak: Intelligent Data Center O&amp;M<br>
+      NPTEL: Introduction to Machine Learning<br>
+      Siemens CoE: PLC, SCADA, HMI &amp; Industrial Automation
     </td>
     <td valign="top" width="33%">
       <b>Leadership</b><br><br>
-      ⚡ Chair, IEEE IAS<br>
-      🔧 Technical Head, BETA (EEE Dept.)<br>
-      📣 Communication Head, Meta Hub
+      Chair, IEEE IAS<br>
+      Technical Head, BETA (EEE Dept.)<br>
+      Communication Head, Meta Hub
     </td>
   </tr>
 </table>
 
 <br>
 
-## 🌱 Currently exploring
+## Currently exploring
 
 `EV battery systems` · `Intelligent motor monitoring` · `Predictive maintenance` · `Industrial IoT` · `Embedded AI`
 
@@ -136,5 +134,5 @@ and industrial automation**.
 
 <div align="center">
   <sub>Open to internships and research collaborations in power electronics, EVs, renewable energy and embedded control.</sub><br>
-  <sub>📍 Irinjalakuda, Kerala, India</sub>
+  <sub>Irinjalakuda, Kerala, India</sub>
 </div>
