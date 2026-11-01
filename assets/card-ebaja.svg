@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200">
+<style>.t{font:700 22px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;fill:#F4F6FA}.sub{font:400 15px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;fill:#A3AEBF}.y{font:600 13px Consolas, 'SF Mono', 'Courier New', monospace;fill:#F5B544;letter-spacing:1px}.tag{font:500 12.5px Consolas, 'SF Mono', 'Courier New', monospace;fill:#C9D2E0}</style>
+<rect x=".5" y=".5" width="559" height="199" rx="16" fill="#0F1522" stroke="#22304A"/>
+<rect x="0" y="22" width="4" height="44" rx="2" fill="#F5B544"/>
+<text x="28" y="46" class="y">EV COMPETITION · 2026</text>
+<text x="28" y="72" class="t">eBAJA EV — Battery Management</text>
+<text x="28" y="98" class="sub">BMS for cell voltage &amp; temperature, ECU</text><text x="28" y="120" class="sub">interfacing, MATLAB battery simulation.</text>
+<rect x="28" y="150" width="37" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="35" y="167.5" class="tag">BMS</text><rect x="72.8" y="150" width="29" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="79.8" y="167.5" class="tag">EV</text><rect x="110.0" y="150" width="60" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="117.0" y="167.5" class="tag">MATLAB</text>
+</svg>

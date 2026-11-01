@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200">
+<style>.t{font:700 22px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;fill:#F4F6FA}.sub{font:400 15px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;fill:#A3AEBF}.y{font:600 13px Consolas, 'SF Mono', 'Courier New', monospace;fill:#34D399;letter-spacing:1px}.tag{font:500 12.5px Consolas, 'SF Mono', 'Courier New', monospace;fill:#C9D2E0}</style>
+<rect x=".5" y=".5" width="559" height="199" rx="16" fill="#0F1522" stroke="#22304A"/>
+<rect x="0" y="22" width="4" height="44" rx="2" fill="#34D399"/>
+<text x="28" y="46" class="y">COMPUTER VISION · 2026</text>
+<text x="28" y="72" class="t">Animal Deterrent System</text>
+<text x="28" y="98" class="sub">ML-based real-time animal detection that triggers</text><text x="28" y="120" class="sub">automated deterrents.</text>
+<rect x="28" y="150" width="60" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="35" y="167.5" class="tag">Python</text><rect x="95.6" y="150" width="29" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="102.6" y="167.5" class="tag">ML</text><rect x="132.8" y="150" width="60" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="139.8" y="167.5" class="tag">Vision</text>
+</svg>

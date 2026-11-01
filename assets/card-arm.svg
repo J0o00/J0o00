@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="200" viewBox="0 0 560 200">
+<style>.t{font:700 22px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;fill:#F4F6FA}.sub{font:400 15px 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif;fill:#A3AEBF}.y{font:600 13px Consolas, 'SF Mono', 'Courier New', monospace;fill:#38BDF8;letter-spacing:1px}.tag{font:500 12.5px Consolas, 'SF Mono', 'Courier New', monospace;fill:#C9D2E0}</style>
+<rect x=".5" y=".5" width="559" height="199" rx="16" fill="#0F1522" stroke="#22304A"/>
+<rect x="0" y="22" width="4" height="44" rx="2" fill="#38BDF8"/>
+<text x="28" y="46" class="y">EMBEDDED · 2025</text>
+<text x="28" y="72" class="t">Wireless Robotic Arm</text>
+<text x="28" y="98" class="sub">Multi-axis ESP32 arm with motor-driver control and</text><text x="28" y="120" class="sub">wireless manipulation.</text>
+<rect x="28" y="150" width="52" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="35" y="167.5" class="tag">ESP32</text><rect x="88.0" y="150" width="60" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="95.0" y="167.5" class="tag">Motors</text><rect x="155.6" y="150" width="75" height="26" rx="6" fill="#182238" stroke="#26324B"/><text x="162.6" y="167.5" class="tag">Wireless</text>
+</svg>
